@@ -14,4 +14,5 @@ cp -r "./dist" "$root/dist"
 cp -r "./demo" "$root/demo"
 cp -r "./api-docs" "$root/api-docs"
 
+echo "GreenTechConcepts"
 echo "Built netlify."
